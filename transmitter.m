@@ -1,5 +1,5 @@
 % Middle East Technical University EE430 Project 
-% Enes Berk Karahançer 
+% Enes Berk KarahanÃ§er 
 
 clc
 clear all
